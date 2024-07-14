@@ -6,8 +6,6 @@ import { Video } from "@/components/Video"
 import { Testimonials } from "@/components/Testimonials"
 import { CTA } from "@/components/CTA"
 import { FAQ } from "@/components/FAQ"
-// import Loading from "@/app/loading"
-
 import { benefitOne, benefitTwo } from "@/components/data"
 export default function Home() {
   return (
